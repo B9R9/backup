@@ -33,6 +33,13 @@
 *.out
 *.app
 *.i*86
+
+#Vim
+*.swp
+
+#MAC
+*.DS_Store
+
 *.x86_64
 *.hex
 
