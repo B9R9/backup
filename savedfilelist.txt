@@ -1,0 +1,9 @@
+Thu Feb 17 12:56:01 EET 2022
+Path des fichiers sauvegardes:
+
+	 - /home/chopper/workspace/test1/test5
+	 - /home/chopper/workspace/test3
+	 - /home/chopper/workspace/test2
+
+================================================
+
