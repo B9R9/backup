@@ -48,3 +48,35 @@ Path des fichiers sauvegardes:
 
 ================================================
 
+Sat Feb 19 10:47:04 EET 2022
+Path des fichiers sauvegardes:
+
+	 - /home/chopper/workspace/crontest.txt
+	 - /home/chopper/workspace/B9R9-ft_printf/libft/libft.a
+	 - /home/chopper/workspace/B9R9-ft_printf/libft/Makefile
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/includes/ftprintf.h
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strnew.c
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strdup.c
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strnew.o
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strdup.o
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/libftprintf.a
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_printf.c
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strjoin.o
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strsub.c
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strlen.c
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strsub.o
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strlen.o
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/Makefile
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_strjoin.c
+	 - /home/chopper/workspace/B9R9-ft_printf/ft_printf/ft_printf.o
+	 - /home/chopper/workspace/B9R9-ft_printf/test.c
+	 - /home/chopper/workspace/B9R9-ft_printf/suiviprojet
+	 - /home/chopper/workspace/B9R9-ft_printf/test
+	 - /home/chopper/workspace/B9R9-ft_printf/Makefile
+	 - /home/chopper/workspace/B9R9-ft_printf/srcs/main.c
+	 - /home/chopper/workspace/B9R9-Fillit/bitwise/libft/Makefile
+	 - /home/chopper/workspace/B9R9-Fillit/bitwise/Makefile
+	 - /home/chopper/workspace/cronlog.txt
+
+================================================
+
